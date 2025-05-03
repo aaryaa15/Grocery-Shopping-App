@@ -1,0 +1,8 @@
+"C:\Users\admin\Downloads\rice.png"
+"C:\Users\admin\Downloads\banana.png"
+"C:\Users\admin\Downloads\bread.png"
+"C:\Users\admin\Downloads\tomato.png"
+"C:\Users\admin\Downloads\milk.png"
+"C:\Users\admin\Downloads\apple.png"
+"C:\Users\admin\Downloads\eggs.png"
+"C:\Users\admin\Downloads\carrots.png"
